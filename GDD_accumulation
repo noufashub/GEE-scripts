@@ -1,6 +1,9 @@
 //Feature wise data extraction
 //Noufa Cheerakkollil Konath; Consultant - CIMMYT
 
+
+//This code snippet aggregates hourly data to monthly, then for each datapoint, calculated growing degree day as per corresponding sowing and harvest dates.
+
 var era5 = ee.ImageCollection("ECMWF/ERA5/DAILY"),
     geometry = 
     /* color: #d63000 */
