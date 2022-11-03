@@ -1,4 +1,3 @@
-```javascript
 //Feature wise data extraction
 //Noufa Cheerakkollil Konath; Consultant - CIMMYT
 
