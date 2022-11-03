@@ -1,4 +1,3 @@
-```javascript
 //Feature wise data extraction
 //Extracts ERA5 monthly aggregate data to each point in the feature collection
 
